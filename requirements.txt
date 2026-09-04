@@ -1,0 +1,9 @@
+# RazorMesh: Autonomous Agentic Commerce Gateway
+# Core Production & Testing Dependencies
+
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.9.0
+httpx>=0.27.0
+starlette>=0.38.0
+reportlab>=4.2.0
