@@ -3,10 +3,19 @@
 > **Track 01: Autonomous Agentic Commerce** — *Razorpay AI Buildathon 2026*  
 > **Reference Implementation**: NPCI Unified Agent Protocol (UAP) & Google Agent Payment Protocol (AP2) Adapter for Razorpay Merchants.
 
-[![Tests](https://img.shields.io/badge/Adversarial%20Tests-15%2F15%20Passing-brightgreen.svg)](file:///test_adversarial.py)
-[![Security](https://img.shields.io/badge/Zero--Trust-100%25%20Deterministic%20Gate-blue.svg)](file:///server.py)
-[![Ledger](https://img.shields.io/badge/Audit%20Ledger-SHA--256%20Append--Only-orange.svg)](file:///audit_engine.py)
-[![FastAPI](https://img.shields.io/badge/API-FastAPI%20%2B%20WebSockets-teal.svg)](file:///server.py)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-brightgreen?logo=github&style=for-the-badge)](https://ashishdehariyax09-afk.github.io/razormesh/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github&style=for-the-badge)](https://github.com/ashishdehariyax09-afk/razormesh)
+[![Tests](https://img.shields.io/badge/Adversarial%20Tests-15%2F15%20Passing-emerald?style=for-the-badge)](test_adversarial.py)
+[![Security](https://img.shields.io/badge/Zero--Trust-Deterministic%20Gate-0084ff?style=for-the-badge)](server.py)
+[![Ledger](https://img.shields.io/badge/Audit%20Ledger-SHA--256%20Append--Only-orange?style=for-the-badge)](audit_engine.py)
+
+---
+
+### 🌐 Quick Evaluation Links
+- 🚀 **Live Interactive Web Demo**: **[https://ashishdehariyax09-afk.github.io/razormesh/](https://ashishdehariyax09-afk.github.io/razormesh/)**
+- 📦 **Official GitHub Repository**: **[https://github.com/ashishdehariyax09-afk/razormesh](https://github.com/ashishdehariyax09-afk/razormesh)**
+- 📄 **Master Hackathon Blueprint (7-Page PDF)**: [`docs/RazorMesh_Final_Hackathon_Blueprint.pdf`](docs/RazorMesh_Final_Hackathon_Blueprint.pdf)
+- 🛡️ **Executive Defense Guide (3-Page PDF)**: [`docs/RazorMesh_Official_Master_Build_Guide.pdf`](docs/RazorMesh_Official_Master_Build_Guide.pdf)
 
 ---
 
